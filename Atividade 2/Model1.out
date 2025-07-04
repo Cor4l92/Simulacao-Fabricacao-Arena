@@ -1,0 +1,59 @@
+Controlador de execução do SIMAN.
+
+0.0 Minutos>
+                                      ARENA Simulation Results
+                                      sandro - License: STUDENT
+
+                                  Sumário para Replicação 1 de 1
+
+Projeto: Unnamed Project                                             Data da execução : 7/ 3/2025
+Analista: sandro                                                      Data de revisão do modelo: 7/ 3/2025
+
+Replicação terminada no tempo de      : 480.0 Minutos 
+Unidade de Tempo Base: Minutos
+
+                                           VARIÁVEIS DE REGISTRO
+
+Identificador                                  Média   Meia Largura  Mínimo    Máximo   Observações
+___________________________________________________________________________________________________
+
+Entity 1.VATime                             23.065     (Insuf)    15.393     42.402         45    
+Entity 1.NVATime                            .00000     (Insuf)    .00000     .00000         45    
+Entity 1.WaitTime                           1.4255     (Insuf)    .00000     12.572         45    
+Entity 1.TranTime                           .00000     (Insuf)    .00000     .00000         45    
+Entity 1.OtherTime                          .00000     (Insuf)    .00000     .00000         45    
+Entity 1.TotalTime                          24.490     (Insuf)    15.710     50.305         45    
+Corte de Cabelo.Queue.WaitingTime           1.4601     (Insuf)    .00000     12.572         48    
+Serviço de Unha.Queue.WaitingTime           .43941     (Insuf)    .00000     3.5153          8    
+
+                                     VARIÁVEIS DISCRETAS
+
+Identificador                                 Média   Meia Largura  Mínimo    Máximo   Valor Final
+___________________________________________________________________________________________________
+
+Entity 1.WIP                                2.4297     (Insuf)    .00000     6.0000     4.0000    
+Barbeiro.NumberBusy                         1.9661     (Insuf)    .00000     3.0000     3.0000    
+Barbeiro.NumberScheduled                    3.0000     (Insuf)    3.0000     3.0000     3.0000    
+Barbeiro.Utilization                        .65537     (Insuf)    .00000     1.0000     1.0000    
+Profissional_Unha.NumberBusy                .28133     (Insuf)    .00000     1.0000     .00000    
+Profissional_Unha.NumberScheduled           1.0000     (Insuf)    1.0000     1.0000     1.0000    
+Profissional_Unha.Utilization               .28133     (Insuf)    .00000     1.0000     .00000    
+Corte de Cabelo.Queue.NumberInQueue         .15830     (Insuf)    .00000     2.0000     1.0000    
+Serviço de Unha.Queue.NumberInQueue         .00732     (Insuf)    .00000     1.0000     .00000    
+
+                                             RESULTADOS
+
+Identificador                                   Valor
+_____________________________________________________________
+
+Entity 1.NumberIn                           49.000    
+Entity 1.NumberOut                          45.000    
+Barbeiro.NumberSeized                       48.000    
+Barbeiro.ScheduledUtilization               .65537    
+Profissional_Unha.NumberSeized              8.0000    
+Profissional_Unha.ScheduledUtilization      .28133    
+System.NumberOut                            45.000    
+
+
+Tempo executando a simulação: 0.18 minutos.
+Simulação completada.

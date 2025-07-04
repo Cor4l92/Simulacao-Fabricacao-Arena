@@ -1,0 +1,15 @@
+[RESOURCES]
+Barbeiro
+Profissional_Unha
+[VARIABLES]
+Corte de Cabelo.NumberOut
+Serviço de Unha.NumberIn
+Corte de Cabelo.NumberIn
+Serviço de Unha.NumberOut
+So Corte.NumberOut
+Deslocamento para Unha.NumberOut
+Deslocamento para Unha.NumberIn
+Com Unha.NumberOut
+Fazer Unha?.NumberOut False
+Chegada de Clientes.NumberOut
+Fazer Unha?.NumberOut True
